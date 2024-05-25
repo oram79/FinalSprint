@@ -1,2 +1,1 @@
-# FinalSprint
-JavaScript Project For Final Spirnt
+#Files For JavaScript Final Sprint (Semester 1)
