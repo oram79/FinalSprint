@@ -1,1 +1,1 @@
-#Files For JavaScript Final Sprint (Semester 1)
+# Final-Sprint Files JavaScript (Semester 1)
